@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## CS 175 Project AI Proposal
+Members: 
+Mark Liu (heyaol@uci.edu)
+Changqi Chen (changqc@uci.edu)
+Michael Douglass (mrdougl1@uci.edu)
+Meeting Time: 1/28/2020 2:00 P.M at DBH 4064
 
-You can use the [editor on GitHub](https://github.com/OGMaRs/OGMaRs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary of the Project: 
+The project is based on the malmo platform which in general is aiming for the AI to build an object (an in-game item such as a sword or a pickaxe) by self-searching the materials and improving the search and building efficiency on the way. The input of the project should be the item that the user requires and the output should be the item that the AI built and the time of efficiency for each practice. For each building process, the AI will get positive reward for collecting the right material with the least amount of time and negative reward for collecting the unnecessary.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Evaluation Plan: 
+Following training, participants will be evaluated on the average score of their model over some episodes. Scores are computed as the sum of the milestone rewards achieved by the agent in a given episode. A milestone is reached when an agent obtains the specified item. And we can define different rewards for different kinds of items we can gain from Minecraft.
+For sanity cases, we can try to get higher rewards items such as iron or stones. The moonshot case is to get the diamonds. We can also improve our project by achieving the goals in shorter episodes.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Goals:
+The minimum goal is to find stone, break it, and collect cobblestone and ultimately turn that into a stone pickaxe that the AI can use to mine. The realistic goal is to find iron and ultimately smelt it so that an iron pickaxe can be created and used to mine. The third, ambitious, goal is to find enough diamonds (3) in order to ultimately create a diamond pickaxe, the best in the game.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Milestones:
+# Minimum Milestones
+Finding and acquiring two wooden logs by hitting them and collecting them. This is enough wood required to make a crafting table, two sticks and two wood planks, nearly enough for a wood pickaxe.
+Achieving a Stone Pickaxe by finding stone, mining it, getting minimum 3 stone, having two sticks, and combining the 3 stone and 2 sticks.
+# Realistic Milestones
+Find Coal to melt iron ore into iron ingot, Need to find coal, mine it, find iron, mine the ore, create a furnace using 8 stone, and put the coal and iron into the furnace to smelt the iron ore into ingot.
+Achieving an Iron Pickaxe by finding and melting iron ore, Using at 3 iron ingot that was smelted, and 2 sticks, create an iron pickaxe in the crafting table.
+# Ambitious Milestone
+Finding a minimum of 3 diamonds in order to create a diamond pickaxe. Using an iron pickaxe find and mine at least 3 diamonds, then using two sticks and three diamonds create a diamond pickaxe in the crafting table.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OGMaRs/OGMaRs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
