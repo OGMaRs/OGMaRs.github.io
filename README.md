@@ -29,3 +29,7 @@ Achieving an Iron Pickaxe by finding and melting iron ore, Using at 3 iron ingot
 # Ambitious Milestone
 Finding a minimum of 3 diamonds in order to create a diamond pickaxe. Using an iron pickaxe find and mine at least 3 diamonds, then using two sticks and three diamonds create a diamond pickaxe in the crafting table.
 
+
+
+### Progress Report Link
+[Link to Progress Report on Github Repository](https://github.com/OGMaRs/175-PROJECT-19-PUBLIC/blob/master/175ProgressReport.pdf)
