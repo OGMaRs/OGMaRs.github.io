@@ -1,4 +1,4 @@
-## CS 175 Project AI Proposal
+# CS 175 Project AI Proposal
 Members: 
 Mark Liu (heyaol@uci.edu)
 Changqi Chen (changqc@uci.edu)
@@ -20,16 +20,16 @@ The minimum goal is to find stone, break it, and collect cobblestone and ultimat
 
 
 ## Milestones:
-# Minimum Milestones
+### Minimum Milestones
 Finding and acquiring two wooden logs by hitting them and collecting them. This is enough wood required to make a crafting table, two sticks and two wood planks, nearly enough for a wood pickaxe.
 Achieving a Stone Pickaxe by finding stone, mining it, getting minimum 3 stone, having two sticks, and combining the 3 stone and 2 sticks.
-# Realistic Milestones
+### Realistic Milestones
 Find Coal to melt iron ore into iron ingot, Need to find coal, mine it, find iron, mine the ore, create a furnace using 8 stone, and put the coal and iron into the furnace to smelt the iron ore into ingot.
 Achieving an Iron Pickaxe by finding and melting iron ore, Using at 3 iron ingot that was smelted, and 2 sticks, create an iron pickaxe in the crafting table.
-# Ambitious Milestone
+### Ambitious Milestone
 Finding a minimum of 3 diamonds in order to create a diamond pickaxe. Using an iron pickaxe find and mine at least 3 diamonds, then using two sticks and three diamonds create a diamond pickaxe in the crafting table.
 
 
 
-### Progress Report Link
+# Progress Report Link
 [Link to Progress Report on Github Repository](https://github.com/OGMaRs/175-PROJECT-19-PUBLIC/blob/master/175ProgressReport.pdf)
