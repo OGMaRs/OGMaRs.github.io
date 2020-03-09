@@ -16,13 +16,14 @@ For sanity cases, we can try to get higher rewards items such as iron or stones.
 
 
 ## Goals:
-The minimum goal is to find stone, break it, and collect cobblestone and ultimately turn that into a stone pickaxe that the AI can use to mine. The realistic goal is to find iron and ultimately smelt it so that an iron pickaxe can be created and used to mine. The third, ambitious, goal is to find enough diamonds (3) in order to ultimately create a diamond pickaxe, the best in the game.
+-The minimum goal is to find wood, break it, and collect logs turning that into planks and sticks and ultimately turn that into a wood pickaxe that the AI can use to mine. The realistic goal is to find iron and ultimately smelt it so that an iron pickaxe can be created and used to mine. The third, ambitious, goal is to find enough diamonds (3) in order to ultimately create a diamond pickaxe, the best in the game.
 
 
 ## Milestones:
 ### Minimum Milestones
-Finding and acquiring two wooden logs by hitting them and collecting them. This is enough wood required to make a crafting table, two sticks and two wood planks, nearly enough for a wood pickaxe.
-Achieving a Wood Pickaxe by finding wood, mining it, getting minimum 3 planks, having two sticks, and combining the 3 planks and 2 sticks.
+-Finding and acquiring two wooden logs by hitting them and collecting them. This is enough wood required to make a crafting table, two sticks and two wood planks, nearly enough for a wood pickaxe.
+
+-Achieving a Wood Pickaxe by finding wood, mining it, getting minimum 3 planks, having two sticks, and combining the 3 planks and 2 sticks.
 ### Realistic Milestones
 Find Coal to melt iron ore into iron ingot, Need to find coal, mine it, find iron, mine the ore, create a furnace using 8 stone, and put the coal and iron into the furnace to smelt the iron ore into ingot.
 Achieving an Iron Pickaxe by finding and melting iron ore, Using at 3 iron ingot that was smelted, and 2 sticks, create an iron pickaxe in the crafting table.
