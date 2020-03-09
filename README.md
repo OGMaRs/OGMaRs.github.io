@@ -16,7 +16,7 @@ For sanity cases, we can try to get higher rewards items such as iron or stones.
 
 
 ## Goals:
--The minimum goal is to find wood, break it, and collect logs turning that into planks and sticks and ultimately turn that into a wood pickaxe that the AI can use to mine. The realistic goal is to find iron and ultimately smelt it so that an iron pickaxe can be created and used to mine. The third, ambitious, goal is to find enough diamonds (3) in order to ultimately create a diamond pickaxe, the best in the game.
+The minimum goal is to find wood, break it, and collect logs turning that into planks and sticks and ultimately turn that into a wood pickaxe that the AI can use to mine. The realistic goal is to find iron and ultimately smelt it so that an iron pickaxe can be created and used to mine. The third, ambitious, goal is to find enough diamonds (3) in order to ultimately create a diamond pickaxe, the best in the game.
 
 
 ## Milestones:
