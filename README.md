@@ -38,5 +38,8 @@ Finding a minimum of 3 diamonds in order to create a diamond pickaxe. Using an i
 # Presentation Slides Link
 [Link to Presentation Slides](https://ogmars.github.io/175-PROJECT-19-PUBLIC/CS175ProjectPresentation.pdf)
 
+# Final Report Link
+[Link to Final Report](https://ogmars.github.io/175-PROJECT-19-PUBLIC/Final_Report.pdf)
+
 # Various Releases Link
 [Link to Code Releases (Private Github)](https://github.com/OGMaRs/175-PROJECT-19/releases)
